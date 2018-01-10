@@ -1,0 +1,9 @@
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\bin\Debug\ClusterColor.exe.config
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\bin\Debug\ClusterColor.exe
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\bin\Debug\ClusterColor.pdb
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\obj\Debug\ClusterColor.csprojResolveAssemblyReference.cache
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\obj\Debug\ClusterColor.Cluster.resources
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\obj\Debug\ClusterColor.csproj.GenerateResource.Cache
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\obj\Debug\ClusterColor.csproj.CoreCompileInputs.cache
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\obj\Debug\ClusterColor.exe
+D:\Visual\ClusterColor\ClusterColor\ClusterColor\obj\Debug\ClusterColor.pdb
